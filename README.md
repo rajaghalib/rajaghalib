@@ -108,7 +108,7 @@ Specialized in **WordPress, Shopify, Wix, and Squarespace**, along with **Full-S
 
 ## 🎓 Education
 - **MSc Artificial Intelligence & Data Science**  
-  University of Hull | Jan 2025 – Present
+  University of Hull | Jan 2025 – Jan 2026
 
 - **BSc Software Engineering**  
   University of Azad Jammu & Kashmir | Oct 2018 – Oct 2022
@@ -118,7 +118,7 @@ Specialized in **WordPress, Shopify, Wix, and Squarespace**, along with **Full-S
 ## 🌐 Portfolio & Links
 - 🔗 Portfolio: https://your-portfolio-link.com  
 - 🔗 GitHub: https://github.com/rajaghalib  
-- 🔗 LinkedIn: https://linkedin.com/in/your-link  
+- 🔗 LinkedIn: https://linkedin.com/in/rajaghalib 
 
 ---
 
