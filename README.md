@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science · Frontend Developer · WordPress, Shopify, Wix & Squarespace</h3>
 
 <p align="center">
-📍 London, United Kingdom · Open to remote work worldwide, UK & Europe roles, paid research and funded PhD positions<br/>
+📍 United Kingdom · Open to remote work worldwide, UK & Europe roles, paid research and funded PhD positions<br/>
 📧 <a href="mailto:engr.rajaghalib@gmail.com">engr.rajaghalib@gmail.com</a> · <a href="https://www.linkedin.com/in/rajaghalib/">LinkedIn</a>
 </p>
 
