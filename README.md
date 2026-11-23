@@ -1,5 +1,5 @@
 <h1 align="center">Raja Ghalib Hussain Khan</h1>
-<h3 align="center">AI & Data Science · Full-Stack & Frontend Developer · WordPress, Shopify, Wix & Squarespace</h3>
+<h3 align="center">AI & Data Science · Frontend Developer · WordPress, Shopify, Wix & Squarespace</h3>
 
 <p align="center">
 📍 London, United Kingdom · Open to remote work worldwide, UK & Europe roles, paid research and funded PhD positions<br/>
@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
@@ -29,10 +29,10 @@
 
 ## About
 
-MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) with **6+ years** of professional web development behind it. I combine NLP and machine learning with production engineering: I can take a model from a notebook to a reliable, well-designed web application.
+MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) with **6+ years** of professional web development behind it. I combine NLP and machine learning with hands-on web development experience.
 
 - 🧠 **AI & data science:** NLP, sentiment and emotion analysis, topic modelling, transformer models, exploratory data analysis
-- 💻 **Full-stack & frontend:** React, Django, FastAPI, REST APIs, dashboards and data visualisation
+- 💻 **Frontend:** JavaScript, Bootstrap, HTML5 and CSS3 for responsive, accessible interfaces
 - 🌐 **CMS & e-commerce:** WordPress, WooCommerce, Shopify, Wix and Squarespace sites built for performance and SEO
 
 ---
@@ -48,26 +48,13 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 
 ---
 
-## 🚀 Projects
-
-| Project | Stack |
-|---|---|
-| [**Inventory Management System**](https://github.com/rajaghalib/react-django-inventory-system) | React · Django · MySQL |
-| **Engineering Project Dashboard** | React · FastAPI · PostgreSQL · Docker · CI/CD |
-| [**WordPress Business Website**](https://github.com/rajaghalib/wordpress-business-website) · [**WooCommerce Store**](https://github.com/rajaghalib/woocommerce-ecommerce-store) · [**WordPress Portfolio**](https://github.com/rajaghalib/wordpress-portfolio-site) | WordPress · Elementor · WooCommerce · SEO |
-| [**Shopify Store Customisation**](https://github.com/rajaghalib/shopify-store-customization) · [**Shopify E-commerce Demo**](https://github.com/rajaghalib/shopify-ecommerce-demo) | Shopify · theme customisation |
-| [**Wix Business Site**](https://github.com/rajaghalib/wix-demo-business-site) · [**Squarespace Site**](https://github.com/rajaghalib/squarespace-demo-site) | Wix · Squarespace · landing pages |
-
----
-
 ## 🛠 Skills
 
 | Area | Tools |
 |---|---|
-| **Languages** | Python, JavaScript, TypeScript, PHP, SQL |
+| **Languages** | Python, JavaScript, PHP, SQL |
 | **AI & data** | pandas, NumPy, scikit-learn, PyTorch, Hugging Face Transformers, BERTopic, Sentence-Transformers, NLTK, VADER, TextBlob, Matplotlib, seaborn |
-| **Frontend** | React.js, HTML5, CSS3, Bootstrap |
-| **Backend** | Django, Flask, FastAPI, RESTful APIs |
+| **Frontend** | JavaScript, Bootstrap, HTML5, CSS3 |
 | **Databases** | PostgreSQL, MySQL |
 | **DevOps & tools** | Docker, Git & GitHub, GitHub Actions (CI/CD), Google Colab, Jupyter |
 | **CMS & platforms** | WordPress (custom themes, Elementor, WooCommerce), Shopify, Wix, Squarespace |
@@ -94,6 +81,6 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 ---
 
 <p align="center">
-Open to AI / data science and full-stack roles, paid research and funded PhD opportunities.<br/>
+Open to AI / data science and web development roles, paid research and funded PhD opportunities.<br/>
 <a href="mailto:engr.rajaghalib@gmail.com"><b>Get in touch</b></a>
 </p>
