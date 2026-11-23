@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -32,7 +33,7 @@
 MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) with **6+ years** of professional web development behind it. I combine NLP and machine learning with hands-on web development experience.
 
 - 🧠 **AI & data science:** NLP, sentiment and emotion analysis, topic modelling, transformer models, exploratory data analysis
-- 💻 **Frontend:** JavaScript, Bootstrap, HTML5 and CSS3 for responsive, accessible interfaces
+- 💻 **Frontend:** JavaScript, jQuery, Bootstrap, HTML5 and CSS3 for responsive, accessible interfaces
 - 🌐 **CMS & e-commerce:** WordPress, WooCommerce, Shopify, Wix and Squarespace sites built for performance and SEO
 
 ---
@@ -54,7 +55,7 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 |---|---|
 | **Languages** | Python, JavaScript, PHP, SQL |
 | **AI & data** | Machine learning, data mining, big data, NLP, computer vision · pandas, NumPy, scikit-learn, PyTorch, Hugging Face Transformers, BERTopic, Sentence-Transformers, NLTK, VADER, TextBlob, Matplotlib, seaborn |
-| **Frontend** | JavaScript, Bootstrap, HTML5, CSS3 |
+| **Frontend** | JavaScript, jQuery, jQuery UI, Bootstrap, HTML5, CSS3 |
 | **Software engineering** | Software design and architecture, requirements engineering, software testing and quality assurance, project management |
 | **Databases** | SQL, PostgreSQL, MySQL |
 | **Security & cloud** | Information security, data security and encryption, cloud computing |
@@ -80,6 +81,7 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 - **MSc Artificial Intelligence & Data Science**, University of Hull · Jan 2025 – Oct 2026  
   Modules include Applied Artificial Intelligence, Big Data and Data Mining, Fundamentals of Data Science, Programming for AI and Data Science
 - **BSc Software Engineering**, University of Azad Jammu & Kashmir, Muzaffarabad · 2018 – 2022  
+  Final-year project: **Online Admission Portal** for the Software Engineering department, UAJK (built the frontend with Bootstrap, HTML5, CSS3, JavaScript, jQuery and jQuery UI)  
   Courses include Data Mining and Machine Learning, Computer Vision, Digital Image Processing, Database Systems, Software Design and Architecture, Software Testing, Information Security, Cloud Computing
 
 ---
