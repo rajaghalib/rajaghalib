@@ -29,7 +29,7 @@
 
 ## About
 
-MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) with **9 years** of professional web development behind it. I combine NLP and machine learning with production engineering: I can take a model from a notebook to a reliable, well-designed web application.
+MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) with **7+ years** of professional web development behind it. I combine NLP and machine learning with production engineering: I can take a model from a notebook to a reliable, well-designed web application.
 
 - 🧠 **AI & data science:** NLP, sentiment and emotion analysis, topic modelling, transformer models, exploratory data analysis
 - 💻 **Full-stack & frontend:** React, Django, FastAPI, REST APIs, dashboards and data visualisation
@@ -76,17 +76,20 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 
 ## 💼 Experience
 
-**Web Developer**, Cooperative Tech Pvt Ltd · 2015 – 2024
-- Built responsive, mobile-first, SEO-optimised websites
-- Developed WordPress and Shopify e-commerce solutions with secure payment integrations
-- Improved client traffic by up to 40%
+**Software Engineer**, Cooperative Tech (Private) Limited · 2018 – 2025
+- Built and maintained WordPress, Shopify and Wix websites and online stores for clients across different industries
+- Raised a high-traffic WordPress site's PageSpeed score from 41 to 93 and closed every critical security issue (Wordfence, two-factor authentication, SSL, WP Rocket caching, Cloudflare CDN)
+- Developed custom WordPress themes and plugins in PHP, HTML5, CSS3 and JavaScript, with ACF so non-technical editors could manage content themselves
+- Set up Shopify stores, including themes, products, payments and app integrations
+- Ensured client sites met WCAG 2.1 AA accessibility and GDPR requirements
+- Tested every release across browsers and devices, and documented changes clearly for handover
 
 ---
 
 ## 🎓 Education
 
-- **MSc Artificial Intelligence & Data Science**, University of Hull · Jan 2025 – Jan 2026
-- **BSc Software Engineering**, University of Azad Jammu & Kashmir · Oct 2018 – Oct 2022
+- **MSc Artificial Intelligence & Data Science**, University of Hull · Jan 2025 – Sep 2026
+- **BE Computer Software Engineering**, University of Azad Jammu and Kashmir · Jun 2018 – Aug 2022
 
 ---
 
