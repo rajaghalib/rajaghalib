@@ -29,7 +29,7 @@
 
 ## About
 
-MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) with **7+ years** of professional web development behind it. I combine NLP and machine learning with production engineering: I can take a model from a notebook to a reliable, well-designed web application.
+MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) with **9 years** of professional web development behind it. I combine NLP and machine learning with production engineering: I can take a model from a notebook to a reliable, well-designed web application.
 
 - 🧠 **AI & data science:** NLP, sentiment and emotion analysis, topic modelling, transformer models, exploratory data analysis
 - 💻 **Full-stack & frontend:** React, Django, FastAPI, REST APIs, dashboards and data visualisation
@@ -76,13 +76,7 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 
 ## 💼 Experience
 
-**Front-End Developer**, AMES Engineering Services · Nov 2020 – Nov 2022
-- Developed engineering dashboards with React.js and REST APIs
-- Built real-time data visualisation portals
-- Implemented secure authentication with role-based access control (RBAC)
-- Led a website redesign that increased inquiries by 60%
-
-**Web Developer**, Cooperative Tech Pvt Ltd · Oct 2015 – Oct 2020
+**Web Developer**, Cooperative Tech Pvt Ltd · 2015 – 2024
 - Built responsive, mobile-first, SEO-optimised websites
 - Developed WordPress and Shopify e-commerce solutions with secure payment integrations
 - Improved client traffic by up to 40%
