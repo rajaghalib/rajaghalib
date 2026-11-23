@@ -29,7 +29,7 @@
 
 ## About
 
-MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) with **7+ years** of professional web development behind it. I combine NLP and machine learning with production engineering: I can take a model from a notebook to a reliable, well-designed web application.
+MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) with **6+ years** of professional web development behind it. I combine NLP and machine learning with production engineering: I can take a model from a notebook to a reliable, well-designed web application.
 
 - 🧠 **AI & data science:** NLP, sentiment and emotion analysis, topic modelling, transformer models, exploratory data analysis
 - 💻 **Full-stack & frontend:** React, Django, FastAPI, REST APIs, dashboards and data visualisation
@@ -76,7 +76,7 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 
 ## 💼 Experience
 
-**Software Engineer**, Cooperative Tech (Private) Limited · 2018 – 2025
+**Software Engineer**, Cooperative Tech (Private) Limited · 2018 – Nov 2024 · Remote
 - Built and maintained WordPress, Shopify and Wix websites and online stores for clients across different industries
 - Raised a high-traffic WordPress site's PageSpeed score from 41 to 93 and closed every critical security issue (Wordfence, two-factor authentication, SSL, WP Rocket caching, Cloudflare CDN)
 - Developed custom WordPress themes and plugins in PHP, HTML5, CSS3 and JavaScript, with ACF so non-technical editors could manage content themselves
