@@ -1,131 +1,102 @@
-<h1 align="center">Hi 👋, I'm Raja Ghalib Hussain Khan</h1>
-<h3 align="center">
-Software Developer | WordPress, Shopify, Wix & Squarespace Expert | Full-Stack Engineer
-</h3>
+<h1 align="center">Raja Ghalib Hussain Khan</h1>
+<h3 align="center">AI & Data Science · Full-Stack & Frontend Developer · WordPress, Shopify, Wix & Squarespace</h3>
 
 <p align="center">
-📍 Leeds, United Kingdom <br/>
-📧 engr.rajaghalib@gmail.com
+📍 London, United Kingdom · Open to remote work worldwide, UK & Europe roles, paid research and funded PhD positions<br/>
+📧 <a href="mailto:engr.rajaghalib@gmail.com">engr.rajaghalib@gmail.com</a> · <a href="https://www.linkedin.com/in/rajaghalib/">LinkedIn</a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white"/>
   <img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
-Software Developer with **7+ years of experience** building scalable web applications, APIs, and CMS-based solutions.  
-Specialized in **WordPress, Shopify, Wix, and Squarespace**, along with **Full-Stack Development** using modern JavaScript and Python frameworks.
+## About
 
-- 🚀 Achieved **40% traffic growth**
-- 📈 Increased **client inquiries by 60%**
-- ⚡ Improved **API performance by 25%**
-- 🧠 Focused on clean, maintainable code & Agile delivery
+MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) with **7+ years** of professional web development behind it. I combine NLP and machine learning with production engineering: I can take a model from a notebook to a reliable, well-designed web application.
 
----
-
-## 🛠 Technical Skills
-
-### 🧑‍💻 Languages
-- JavaScript, TypeScript
-- Python
-- PHP
-- SQL
-
-### 🎨 Frontend
-- React.js
-- HTML5, CSS3
-- Bootstrap
-
-### 🔧 Backend
-- Django
-- Flask
-- FastAPI
-- RESTful APIs
-
-### 🗄 Databases
-- PostgreSQL
-- MySQL
-
-### ☁ DevOps & Tools
-- Docker
-- Git & GitHub
-- GitHub Actions (CI/CD)
-
-### 🌐 CMS & Platforms
-- **WordPress** (Custom Themes, Elementor, WooCommerce)
-- **Shopify** (Store Setup & Theme Customization)
-- **Wix**
-- **Squarespace**
+- 🧠 **AI & data science:** NLP, sentiment and emotion analysis, topic modelling, transformer models, exploratory data analysis
+- 💻 **Full-stack & frontend:** React, Django, FastAPI, REST APIs, dashboards and data visualisation
+- 🌐 **CMS & e-commerce:** WordPress, WooCommerce, Shopify, Wix and Squarespace sites built for performance and SEO
 
 ---
 
-## 💼 Work Experience
+## 🔬 Featured research
 
-### Web Developer  
-**Cooperative Tech PVT LTD** | Oct 2015 – Oct 2020
-- Built responsive, mobile-first, SEO-optimized websites
-- Developed **WordPress & Shopify eCommerce solutions**
-- Integrated secure payment systems
-- Improved client traffic by **up to 40%**
-- Delivered projects on time with high client satisfaction
+### [Sustainability Discourse on Reddit: Multi-Technique NLP Analysis](https://github.com/rajaghalib/reddit-sustainability-nlp)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24451524.svg)](https://doi.org/10.5281/zenodo.24451524)
 
----
+MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/sustainability posts and comments (2023 to 2026): PRAW collection, VADER and TextBlob sentiment, emotion detection, BERTopic topic modelling and a RoBERTa cross-check. VADER and RoBERTa agreed on only **44.4%** of texts, a clear case against relying on a single sentiment tool.
 
-### Front-End Developer  
-**AMES Engineering Services** | Nov 2020 – Nov 2022
-- Developed engineering dashboards using **React.js & REST APIs**
-- Built real-time data visualization portals
-- Implemented secure authentication with **RBAC**
-- Led website redesign, increasing inquiries by **60%**
+`Python` `BERTopic` `RoBERTa` `Sentence-Transformers` `VADER`
 
 ---
 
-## 🚀 Featured Projects
-- **Inventory Management System**  
-  React.js · Django · MySQL
+## 🚀 Projects
 
-- **Engineering Project Dashboard**  
-  React.js · FastAPI · PostgreSQL · Docker · CI/CD
+| Project | Stack |
+|---|---|
+| [**Inventory Management System**](https://github.com/rajaghalib/react-django-inventory-system) | React · Django · MySQL |
+| **Engineering Project Dashboard** | React · FastAPI · PostgreSQL · Docker · CI/CD |
+| [**WordPress Business Website**](https://github.com/rajaghalib/wordpress-business-website) · [**WooCommerce Store**](https://github.com/rajaghalib/woocommerce-ecommerce-store) · [**WordPress Portfolio**](https://github.com/rajaghalib/wordpress-portfolio-site) | WordPress · Elementor · WooCommerce · SEO |
+| [**Shopify Store Customisation**](https://github.com/rajaghalib/shopify-store-customization) · [**Shopify E-commerce Demo**](https://github.com/rajaghalib/shopify-ecommerce-demo) | Shopify · theme customisation |
+| [**Wix Business Site**](https://github.com/rajaghalib/wix-demo-business-site) · [**Squarespace Site**](https://github.com/rajaghalib/squarespace-demo-site) | Wix · Squarespace · landing pages |
 
-- **WordPress Business & WooCommerce Websites**  
-  Elementor · Performance Optimization · SEO
+---
 
-- **Shopify Stores**  
-  Theme Customization · Payments · Product Setup
+## 🛠 Skills
 
-- **Wix & Squarespace Websites**  
-  Business Sites · Landing Pages · Redesigns
+| Area | Tools |
+|---|---|
+| **Languages** | Python, JavaScript, TypeScript, PHP, SQL |
+| **AI & data** | pandas, NumPy, scikit-learn, PyTorch, Hugging Face Transformers, BERTopic, Sentence-Transformers, NLTK, VADER, TextBlob, Matplotlib, seaborn |
+| **Frontend** | React.js, HTML5, CSS3, Bootstrap |
+| **Backend** | Django, Flask, FastAPI, RESTful APIs |
+| **Databases** | PostgreSQL, MySQL |
+| **DevOps & tools** | Docker, Git & GitHub, GitHub Actions (CI/CD), Google Colab, Jupyter |
+| **CMS & platforms** | WordPress (custom themes, Elementor, WooCommerce), Shopify, Wix, Squarespace |
+
+---
+
+## 💼 Experience
+
+**Front-End Developer**, AMES Engineering Services · Nov 2020 – Nov 2022
+- Developed engineering dashboards with React.js and REST APIs
+- Built real-time data visualisation portals
+- Implemented secure authentication with role-based access control (RBAC)
+- Led a website redesign that increased inquiries by 60%
+
+**Web Developer**, Cooperative Tech Pvt Ltd · Oct 2015 – Oct 2020
+- Built responsive, mobile-first, SEO-optimised websites
+- Developed WordPress and Shopify e-commerce solutions with secure payment integrations
+- Improved client traffic by up to 40%
 
 ---
 
 ## 🎓 Education
-- **MSc Artificial Intelligence & Data Science**  
-  University of Hull | Jan 2025 – Jan 2026
 
-- **BSc Software Engineering**  
-  University of Azad Jammu & Kashmir | Oct 2018 – Oct 2022
+- **MSc Artificial Intelligence & Data Science**, University of Hull · Jan 2025 – Jan 2026
+- **BSc Software Engineering**, University of Azad Jammu & Kashmir · Oct 2018 – Oct 2022
 
 ---
 
-## 🌐 Portfolio & Links
-- 🔗 Portfolio: https://your-portfolio-link.com  
-- 🔗 GitHub: https://github.com/rajaghalib  
-- 🔗 LinkedIn: https://linkedin.com/in/rajaghalib 
-
----
-
-## 📊 GitHub Stats
-![Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaghalib&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=rajaghalib)
-
----
-
-⭐ Thank you for visiting my profile!
+<p align="center">
+Open to AI / data science and full-stack roles, paid research and funded PhD opportunities.<br/>
+<a href="mailto:engr.rajaghalib@gmail.com"><b>Get in touch</b></a>
+</p>
