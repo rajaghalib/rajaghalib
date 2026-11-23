@@ -3,7 +3,7 @@
 
 <p align="center">
 📍 United Kingdom · Open to remote work worldwide, UK & Europe roles, paid research and funded PhD positions<br/>
-📧 <a href="mailto:engr.rajaghalib@gmail.com">engr.rajaghalib@gmail.com</a> · <a href="https://www.linkedin.com/in/rajaghalib/">LinkedIn</a>
+📧 <a href="mailto:engr.rajaghalib@gmail.com">engr.rajaghalib@gmail.com</a> · <a href="https://www.linkedin.com/in/rajaghalib/">LinkedIn</a> · <a href="https://orcid.org/0009-0007-8824-4921">ORCID</a>
 </p>
 
 <p align="center">
