@@ -53,9 +53,11 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 | Area | Tools |
 |---|---|
 | **Languages** | Python, JavaScript, PHP, SQL |
-| **AI & data** | pandas, NumPy, scikit-learn, PyTorch, Hugging Face Transformers, BERTopic, Sentence-Transformers, NLTK, VADER, TextBlob, Matplotlib, seaborn |
+| **AI & data** | Machine learning, data mining, big data, NLP, computer vision · pandas, NumPy, scikit-learn, PyTorch, Hugging Face Transformers, BERTopic, Sentence-Transformers, NLTK, VADER, TextBlob, Matplotlib, seaborn |
 | **Frontend** | JavaScript, Bootstrap, HTML5, CSS3 |
-| **Databases** | PostgreSQL, MySQL |
+| **Software engineering** | Software design and architecture, requirements engineering, software testing and quality assurance, project management |
+| **Databases** | SQL, PostgreSQL, MySQL |
+| **Security & cloud** | Information security, data security and encryption, cloud computing |
 | **DevOps & tools** | Docker, Git & GitHub, GitHub Actions (CI/CD), Google Colab, Jupyter |
 | **CMS & platforms** | WordPress (custom themes, Elementor, WooCommerce), Shopify, Wix, Squarespace |
 
@@ -75,8 +77,10 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 
 ## 🎓 Education
 
-- **MSc Artificial Intelligence & Data Science**, University of Hull · Jan 2025 – Sep 2026
-- **BE Computer Software Engineering**, University of Azad Jammu and Kashmir · Jun 2018 – Aug 2022
+- **MSc Artificial Intelligence & Data Science**, University of Hull · Jan 2025 – Oct 2026  
+  Modules include Applied Artificial Intelligence, Big Data and Data Mining, Fundamentals of Data Science, Programming for AI and Data Science
+- **BSc Software Engineering**, University of Azad Jammu & Kashmir, Muzaffarabad · 2018 – 2022  
+  Courses include Data Mining and Machine Learning, Computer Vision, Digital Image Processing, Database Systems, Software Design and Architecture, Software Testing, Information Security, Cloud Computing
 
 ---
 
