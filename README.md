@@ -38,7 +38,7 @@ MSc graduate in **Artificial Intelligence & Data Science** (University of Hull) 
 
 ---
 
-## 🔬 Featured research
+## 🔬 Featured work
 
 ### [Sustainability Discourse on Reddit: Multi-Technique NLP Analysis](https://github.com/rajaghalib/reddit-sustainability-nlp)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24451524.svg)](https://doi.org/10.5281/zenodo.24451524)
@@ -47,6 +47,12 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 
 `Python` `BERTopic` `RoBERTa` `Sentence-Transformers` `VADER`
 
+### [SMS Spam Detection: Traditional Machine Learning vs Deep Learning](https://github.com/rajaghalib/sms-spam-detection-ml-dl)
+
+Applied Artificial Intelligence module, MSc, University of Hull. Five approaches compared on the imbalanced SMS Spam Collection dataset (1,115-message test set): a fine-tuned **DistilBERT** reached **98.65%** accuracy and caught 93% of spam, a BiLSTM reached 98.48%, and a grid-searched TF-IDF + Naive Bayes baseline 97.85% at a fraction of the compute.
+
+`Python` `scikit-learn` `TensorFlow/Keras` `Hugging Face Transformers` `DistilBERT` `BiLSTM`
+
 ---
 
 ## 🛠 Skills
@@ -54,7 +60,7 @@ MSc dissertation, University of Hull, 2026. An end-to-end pipeline over 9,943 r/
 | Area | Tools |
 |---|---|
 | **Languages** | Python, JavaScript, PHP, SQL |
-| **AI & data** | Machine learning, data mining, big data, NLP, computer vision · pandas, NumPy, scikit-learn, PyTorch, Hugging Face Transformers, BERTopic, Sentence-Transformers, NLTK, VADER, TextBlob, Matplotlib, seaborn |
+| **AI & data** | Machine learning, deep learning, data mining, big data, NLP, computer vision · pandas, NumPy, scikit-learn, TensorFlow/Keras, PyTorch, Hugging Face Transformers, BERTopic, Sentence-Transformers, NLTK, VADER, TextBlob, Matplotlib, seaborn |
 | **Frontend** | JavaScript, jQuery, jQuery UI, Bootstrap, HTML5, CSS3 |
 | **Software engineering** | Software design and architecture, requirements engineering, software testing and quality assurance, project management |
 | **Databases** | SQL, PostgreSQL, MySQL |
