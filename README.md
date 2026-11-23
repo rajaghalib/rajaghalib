@@ -53,6 +53,12 @@ Applied Artificial Intelligence module, MSc, University of Hull. Five approaches
 
 `Python` `scikit-learn` `TensorFlow/Keras` `Hugging Face Transformers` `DistilBERT` `BiLSTM`
 
+### [UK Road Accidents and Facebook Social Network: Data Mining](https://github.com/rajaghalib/uk-road-accidents-social-network-mining)
+
+Big Data and Data Mining module, MSc, University of Hull. SQL, Apriori association rules, K-Means and DBSCAN clustering and weekly forecasting on **117,536** UK road accidents from 2019: motorcycles over 500cc had a fatal rate **4.7 times** that of 125cc and under. Plus a Facebook network of 4,039 users, where Louvain found 16 communities (modularity 0.835).
+
+`Python` `SQL` `mlxtend` `scikit-learn` `statsmodels` `NetworkX`
+
 ---
 
 ## 🛠 Skills
@@ -60,7 +66,7 @@ Applied Artificial Intelligence module, MSc, University of Hull. Five approaches
 | Area | Tools |
 |---|---|
 | **Languages** | Python, JavaScript, PHP, SQL |
-| **AI & data** | Machine learning, deep learning, data mining, big data, NLP, computer vision · pandas, NumPy, scikit-learn, TensorFlow/Keras, PyTorch, Hugging Face Transformers, BERTopic, Sentence-Transformers, NLTK, VADER, TextBlob, Matplotlib, seaborn |
+| **AI & data** | Machine learning, deep learning, data mining, association rules, clustering, time-series forecasting, social network analysis, NLP, computer vision · pandas, NumPy, scikit-learn, TensorFlow/Keras, PyTorch, Hugging Face Transformers, BERTopic, Sentence-Transformers, NLTK, VADER, TextBlob, Matplotlib, seaborn, statsmodels, mlxtend, NetworkX |
 | **Frontend** | JavaScript, jQuery, jQuery UI, Bootstrap, HTML5, CSS3 |
 | **Software engineering** | Software design and architecture, requirements engineering, software testing and quality assurance, project management |
 | **Databases** | SQL, PostgreSQL, MySQL |
